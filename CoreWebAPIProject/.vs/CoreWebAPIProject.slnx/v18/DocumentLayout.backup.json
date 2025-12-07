@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Round_66\\Web API\\CoreWebAPIProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1274DCD5-DDCA-D4D4-10CD-36C6AA56F6A4}|CoreWebAPIProject\\CoreWebAPIProject.csproj|e:\\round_66\\web api\\corewebapiproject\\corewebapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1274DCD5-DDCA-D4D4-10CD-36C6AA56F6A4}|CoreWebAPIProject\\CoreWebAPIProject.csproj|solutionrelative:corewebapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1274DCD5-DDCA-D4D4-10CD-36C6AA56F6A4}|CoreWebAPIProject\\CoreWebAPIProject.csproj|e:\\round_66\\web api\\corewebapiproject\\corewebapiproject\\models\\saledetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1274DCD5-DDCA-D4D4-10CD-36C6AA56F6A4}|CoreWebAPIProject\\CoreWebAPIProject.csproj|solutionrelative:corewebapiproject\\models\\saledetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1274DCD5-DDCA-D4D4-10CD-36C6AA56F6A4}|CoreWebAPIProject\\CoreWebAPIProject.csproj|e:\\round_66\\web api\\corewebapiproject\\corewebapiproject\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1274DCD5-DDCA-D4D4-10CD-36C6AA56F6A4}|CoreWebAPIProject\\CoreWebAPIProject.csproj|solutionrelative:corewebapiproject\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1274DCD5-DDCA-D4D4-10CD-36C6AA56F6A4}|CoreWebAPIProject\\CoreWebAPIProject.csproj|e:\\round_66\\web api\\corewebapiproject\\corewebapiproject\\datacontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1274DCD5-DDCA-D4D4-10CD-36C6AA56F6A4}|CoreWebAPIProject\\CoreWebAPIProject.csproj|solutionrelative:corewebapiproject\\datacontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1274DCD5-DDCA-D4D4-10CD-36C6AA56F6A4}|CoreWebAPIProject\\CoreWebAPIProject.csproj|e:\\round_66\\web api\\corewebapiproject\\corewebapiproject\\models\\salemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1274DCD5-DDCA-D4D4-10CD-36C6AA56F6A4}|CoreWebAPIProject\\CoreWebAPIProject.csproj|solutionrelative:corewebapiproject\\models\\salemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1274DCD5-DDCA-D4D4-10CD-36C6AA56F6A4}|CoreWebAPIProject\\CoreWebAPIProject.csproj|e:\\round_66\\web api\\corewebapiproject\\corewebapiproject\\migrations\\20251206052322_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1274DCD5-DDCA-D4D4-10CD-36C6AA56F6A4}|CoreWebAPIProject\\CoreWebAPIProject.csproj|solutionrelative:corewebapiproject\\migrations\\20251206052322_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20251206052322_InitialCreate.cs",
+              "DocumentMoniker": "E:\\Round_66\\Web API\\CoreWebAPIProject\\CoreWebAPIProject\\Migrations\\20251206052322_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CoreWebAPIProject\\Migrations\\20251206052322_InitialCreate.cs",
+              "ToolTip": "E:\\Round_66\\Web API\\CoreWebAPIProject\\CoreWebAPIProject\\Migrations\\20251206052322_InitialCreate.cs",
+              "RelativeToolTip": "CoreWebAPIProject\\Migrations\\20251206052322_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T05:23:23.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaleController.cs",
+              "DocumentMoniker": "E:\\Round_66\\Web API\\CoreWebAPIProject\\CoreWebAPIProject\\Controllers\\SaleController.cs",
+              "RelativeDocumentMoniker": "CoreWebAPIProject\\Controllers\\SaleController.cs",
+              "ToolTip": "E:\\Round_66\\Web API\\CoreWebAPIProject\\CoreWebAPIProject\\Controllers\\SaleController.cs",
+              "RelativeToolTip": "CoreWebAPIProject\\Controllers\\SaleController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAzwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T04:11:44.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Round_66\\Web API\\CoreWebAPIProject\\CoreWebAPIProject\\Program.cs",
+              "RelativeDocumentMoniker": "CoreWebAPIProject\\Program.cs",
+              "ToolTip": "E:\\Round_66\\Web API\\CoreWebAPIProject\\CoreWebAPIProject\\Program.cs",
+              "RelativeToolTip": "CoreWebAPIProject\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T06:55:06.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SaleDetail.cs",
+              "DocumentMoniker": "E:\\Round_66\\Web API\\CoreWebAPIProject\\CoreWebAPIProject\\Models\\SaleDetail.cs",
+              "RelativeDocumentMoniker": "CoreWebAPIProject\\Models\\SaleDetail.cs",
+              "ToolTip": "E:\\Round_66\\Web API\\CoreWebAPIProject\\CoreWebAPIProject\\Models\\SaleDetail.cs",
+              "RelativeToolTip": "CoreWebAPIProject\\Models\\SaleDetail.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T06:32:57.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SaleMaster.cs",
+              "DocumentMoniker": "E:\\Round_66\\Web API\\CoreWebAPIProject\\CoreWebAPIProject\\Models\\SaleMaster.cs",
+              "RelativeDocumentMoniker": "CoreWebAPIProject\\Models\\SaleMaster.cs",
+              "ToolTip": "E:\\Round_66\\Web API\\CoreWebAPIProject\\CoreWebAPIProject\\Models\\SaleMaster.cs",
+              "RelativeToolTip": "CoreWebAPIProject\\Models\\SaleMaster.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA7wAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T06:32:26.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "E:\\Round_66\\Web API\\CoreWebAPIProject\\CoreWebAPIProject\\DataContext\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "CoreWebAPIProject\\DataContext\\AppDBContext.cs",
+              "ToolTip": "E:\\Round_66\\Web API\\CoreWebAPIProject\\CoreWebAPIProject\\DataContext\\AppDBContext.cs",
+              "RelativeToolTip": "CoreWebAPIProject\\DataContext\\AppDBContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA0wBIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T06:29:15.885Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
